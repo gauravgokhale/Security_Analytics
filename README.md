@@ -1,2 +1,2 @@
 # Real-Time Malignant Data Hunt
-One of a kind perspective in the Security Domain
+Using memcached as a key-value in-memory database to boost your real time IOC detection.
